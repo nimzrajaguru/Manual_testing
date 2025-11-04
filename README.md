@@ -2,7 +2,7 @@
 
 
 This repository contains my **manual testing practice** for the Swag Labs demo e-commerce website.  
-It includes test case document of the Login process and Bug report 
+It includes the test case document of the login and search functionalities and Bug report 
 
 This project was created to showcase:
 - Understanding of manual testing concepts
